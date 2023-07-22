@@ -3,6 +3,7 @@ import FeedbackOptions from "./FeedbackOptions";
 import Section from "./Section";
 import Statistics from "./Stats";
 import Notification from "./Notification";
+import PropTypes from "prop-types";
 
 export default class Feedback extends Component {
   state = {
